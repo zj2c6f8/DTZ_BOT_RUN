@@ -1,0 +1,12 @@
+{
+  "name": "dtz-bot-run-site",
+  "version": "1.0.0",
+  "description": "Hosted Bot Runner by Sithuwa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
